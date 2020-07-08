@@ -1,0 +1,16 @@
+body {
+  background-color: gray;
+  background-image: url("veterinario.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+div {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  background: url("capture.png") no-repeat center;
+  background-size: cover;
+}
